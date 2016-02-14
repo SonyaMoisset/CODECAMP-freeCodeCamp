@@ -10,10 +10,10 @@ You may need to turn the string into an array before you can reverse it.
 
 Your result must be a string.
 
-## Method Used
+## Methods Used
 
-String.split()
-Array.reverse()
+String.split()    
+Array.reverse()   
 Array.join()
 
 ## Technologies Used
@@ -23,8 +23,8 @@ Testing: Mocha and Chai
 
 ## Solutions
 
-Solution 1 with a FOR loop
-Solution 2 with methods
+[Solution 1 with a FOR loop](https://github.com/SonyaMoisset/CODECAMP-freeCodeCamp/tree/master/Basic-Algorithm-Scripting/Reverse-a-String/solution1)    
+[Solution 2 with methods](https://github.com/SonyaMoisset/CODECAMP-freeCodeCamp/tree/master/Basic-Algorithm-Scripting/Reverse-a-String/solution2)
 
 ### Legal
 
