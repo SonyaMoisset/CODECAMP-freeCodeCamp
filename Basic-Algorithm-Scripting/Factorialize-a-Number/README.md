@@ -19,7 +19,7 @@ Testing: Mocha and Chai
 
 ## Solution
 
-[Solution]https://github.com/SonyaMoisset/CODECAMP-freeCodeCamp/tree/master/Basic-Algorithm-Scripting/Factorialize-a-Number/solution
+[Solution](https://github.com/SonyaMoisset/CODECAMP-freeCodeCamp/tree/master/Basic-Algorithm-Scripting/Factorialize-a-Number/solution)
 
 ### Legal
 
