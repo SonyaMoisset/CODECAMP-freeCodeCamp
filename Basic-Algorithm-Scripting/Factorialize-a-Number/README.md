@@ -21,7 +21,7 @@ Testing: Mocha and Chai
 
 [Solution 1 with recursive method](https://github.com/SonyaMoisset/CODECAMP-freeCodeCamp/tree/master/Basic-Algorithm-Scripting/Factorialize-a-Number/solution1)
 
-[Solution 1 with a WHILE loop](https://github.com/SonyaMoisset/CODECAMP-freeCodeCamp/tree/master/Basic-Algorithm-Scripting/Factorialize-a-Number/solution2)
+[Solution 2 with a WHILE loop](https://github.com/SonyaMoisset/CODECAMP-freeCodeCamp/tree/master/Basic-Algorithm-Scripting/Factorialize-a-Number/solution2)
 
 ### Legal
 
